@@ -1,0 +1,197 @@
+<mxfile host="Electron" modified="2023-10-29T17:03:16.812Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.2 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="E18pt0oAJhUSjDHy_dZe" version="22.0.2" type="device">
+  <diagram name="Page-1" id="ndVaN8yizbAnjFOJoKOq">
+    <mxGraphModel dx="1247" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hyZr3XdFLstSQ0vTIa1D-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hyZr3XdFLstSQ0vTIa1D-1" target="hyZr3XdFLstSQ0vTIa1D-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hyZr3XdFLstSQ0vTIa1D-1" value="Ferry Route&lt;br&gt;Management" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="400" y="150" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hyZr3XdFLstSQ0vTIa1D-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="hyZr3XdFLstSQ0vTIa1D-2" target="hyZr3XdFLstSQ0vTIa1D-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hyZr3XdFLstSQ0vTIa1D-2" value="Payment &amp;amp;&amp;nbsp;&lt;br&gt;Ticket Compensation" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="400" y="680" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hyZr3XdFLstSQ0vTIa1D-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hyZr3XdFLstSQ0vTIa1D-3" target="hyZr3XdFLstSQ0vTIa1D-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hyZr3XdFLstSQ0vTIa1D-3" value="Seat &lt;br&gt;Confirmation" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="400" y="500" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hyZr3XdFLstSQ0vTIa1D-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hyZr3XdFLstSQ0vTIa1D-4" target="hyZr3XdFLstSQ0vTIa1D-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hyZr3XdFLstSQ0vTIa1D-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hyZr3XdFLstSQ0vTIa1D-4" target="hyZr3XdFLstSQ0vTIa1D-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hyZr3XdFLstSQ0vTIa1D-4" value="Ferry Ticket&amp;nbsp;&lt;br&gt;Reservation" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="400" y="325" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hyZr3XdFLstSQ0vTIa1D-5" value="Cancel Ticket" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="145" y="680" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hyZr3XdFLstSQ0vTIa1D-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="hyZr3XdFLstSQ0vTIa1D-6" target="hyZr3XdFLstSQ0vTIa1D-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="205" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hyZr3XdFLstSQ0vTIa1D-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="hyZr3XdFLstSQ0vTIa1D-6" target="hyZr3XdFLstSQ0vTIa1D-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hyZr3XdFLstSQ0vTIa1D-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hyZr3XdFLstSQ0vTIa1D-6" target="hyZr3XdFLstSQ0vTIa1D-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hyZr3XdFLstSQ0vTIa1D-6" value="Passenger" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="360" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hyZr3XdFLstSQ0vTIa1D-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="hyZr3XdFLstSQ0vTIa1D-7" target="hyZr3XdFLstSQ0vTIa1D-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="205" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hyZr3XdFLstSQ0vTIa1D-7" value="Admin" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="360" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hyZr3XdFLstSQ0vTIa1D-9" value="Search for ferry route" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="230" y="180" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hyZr3XdFLstSQ0vTIa1D-11" value="Add/Edit ferry route" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="540" y="180" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hyZr3XdFLstSQ0vTIa1D-17" value="Book Ferry Ticket" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="280" y="350" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hyZr3XdFLstSQ0vTIa1D-18" value="Ticket Booking &lt;br&gt;List" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="500" y="350" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hyZr3XdFLstSQ0vTIa1D-20" value="Cancel Ferry Ticket" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="1" vertex="1">
+          <mxGeometry x="120" y="500" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hyZr3XdFLstSQ0vTIa1D-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" parent="1" source="hyZr3XdFLstSQ0vTIa1D-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="650" as="sourcePoint" />
+            <mxPoint x="240" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hyZr3XdFLstSQ0vTIa1D-22" value="Ticket Confirmation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="1" vertex="1">
+          <mxGeometry x="200" y="500" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hyZr3XdFLstSQ0vTIa1D-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.905;entryY=0.859;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="hyZr3XdFLstSQ0vTIa1D-2" target="hyZr3XdFLstSQ0vTIa1D-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="650" as="sourcePoint" />
+            <mxPoint x="440" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hyZr3XdFLstSQ0vTIa1D-24" value="Ticket detail" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="270" y="780" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hyZr3XdFLstSQ0vTIa1D-26" value="Passenger List" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="650" y="530" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hyZr3XdFLstSQ0vTIa1D-30" value="Travel Route" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="460" y="270" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hyZr3XdFLstSQ0vTIa1D-31" value="Ticket Details" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="460" y="450" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9N6mmR54tO4MU3PXk9sR-1" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="540" as="sourcePoint" />
+            <mxPoint x="560" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iRdNM70kq3eNHkZtrHDR-1" value="Seat Booking DB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="480" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iRdNM70kq3eNHkZtrHDR-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="470" as="sourcePoint" />
+            <mxPoint x="660" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iRdNM70kq3eNHkZtrHDR-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="514.5" as="sourcePoint" />
+            <mxPoint x="660" y="514.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iRdNM70kq3eNHkZtrHDR-4" value="Ticket Booking DB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="830" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iRdNM70kq3eNHkZtrHDR-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="820" as="sourcePoint" />
+            <mxPoint x="560" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iRdNM70kq3eNHkZtrHDR-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="864.5" as="sourcePoint" />
+            <mxPoint x="560" y="864.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iRdNM70kq3eNHkZtrHDR-10" value="Ticket Cancel DB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="832.16" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iRdNM70kq3eNHkZtrHDR-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="822.16" as="sourcePoint" />
+            <mxPoint x="230" y="822.16" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iRdNM70kq3eNHkZtrHDR-12" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="866.66" as="sourcePoint" />
+            <mxPoint x="230" y="866.66" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iRdNM70kq3eNHkZtrHDR-13" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="820" as="sourcePoint" />
+            <mxPoint x="160" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iRdNM70kq3eNHkZtrHDR-14" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="780" as="sourcePoint" />
+            <mxPoint x="520" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iRdNM70kq3eNHkZtrHDR-15" value="Ferry Route DB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="100" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iRdNM70kq3eNHkZtrHDR-16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="90" as="sourcePoint" />
+            <mxPoint x="600" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iRdNM70kq3eNHkZtrHDR-17" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="134.5" as="sourcePoint" />
+            <mxPoint x="600" y="134.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iRdNM70kq3eNHkZtrHDR-18" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.948;exitY=0.219;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="hyZr3XdFLstSQ0vTIa1D-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="170" as="sourcePoint" />
+            <mxPoint x="550" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
